@@ -1,0 +1,50 @@
+Message  1:
+From admin@lli-inf-lin03.llsuva.test  Wed Dec 14 12:20:25 2022
+Return-Path: <admin@lli-inf-lin03.llsuva.test>
+X-Original-To: admin
+Delivered-To: admin@lli-inf-lin03.llsuva.test
+From: "(Cron Daemon)" <admin@lli-inf-lin03.llsuva.test>
+To: admin@lli-inf-lin03.llsuva.test
+Subject: Cron <admin@lli-inf-lin03> /usr/local/bin/mail2git -f processmails
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+Precedence: bulk
+X-Cron-Env: <XDG_SESSION_ID=307>
+X-Cron-Env: <XDG_RUNTIME_DIR=/run/user/1000>
+X-Cron-Env: <DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus>
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/admin>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=admin>
+X-Cron-Env: <USER=admin>
+Date: Wed, 14 Dec 2022 12:20:02 +0100 (CET)
+Status: RO
+
+
+2022-12-14T12:20:01 - mail2git - *** Function processmails ***
+*** 2022-12-14T12:20:01 - Processing mail ***
+From: llvmwareadmin@llsuva.test
+ To: admin@lli-inf-lin03.llsuva.test
+ Subject: Cron <admin@lli-inf-lin03> /usr/local/bin/mail2git -f processmails
+ Date: Wed, 14 Dec 2022 12:10:03 +0100 (CET)
+ File: 2022-12-14T12:20:01.txt
+[main 78d10df] Lehrlingslab Notification  From: llvmwareadmin@llsuva.test  To: admin@lli-inf-lin03.llsuva.test  Subject: Cron <admin@lli-inf-lin03> /usr/local/bin/mail2git -f processmails  Date: Wed, 14 Dec 2022 12:10:03 +0100 (CET)
+ 1 file changed, 50 insertions(+)
+ create mode 100644 2022-12-14T12:20:01.txt
+To github.com:daha1337/mail2git-lladmin.git
+   3ad7564..78d10df  main -> main
+Held 1 message in /var/mail/admin
+*** 2022-12-14T12:20:14 - Processing mail ***
+From: llvmwareadmin@llsuva.test
+ To: llvmwareadmin@llsuva.test
+ Subject: Alarm alarm.HostConnectionStateAlarm on Host : lli-inf-esx05.llsuva.test is Normal
+ Date: Wed, 14 Dec 2022 11:13:01 GMT
+ File: 2022-12-14T12:20:14.txt
+[main dab2fb8] Lehrlingslab Notification  From: llvmwareadmin@llsuva.test  To: llvmwareadmin@llsuva.test  Subject: Alarm alarm.HostConnectionStateAlarm on Host : lli-inf-esx05.llsuva.test is Normal  Date: Wed, 14 Dec 2022 11:13:01 GMT
+ 1 file changed, 13 insertions(+)
+ create mode 100644 2022-12-14T12:20:14.txt
+To github.com:daha1337/mail2git-lladmin.git
+   78d10df..dab2fb8  main -> main
+
+Held 1 message in /var/mail/admin
