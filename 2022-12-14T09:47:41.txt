@@ -1,0 +1,13 @@
+Message  1:
+From hd6@lli-hd6-lin03.llsuva.test  Wed Dec 14 00:37:27 2022
+Return-Path: <hd6@lli-hd6-lin03.llsuva.test>
+X-Original-To: hd6
+Delivered-To: hd6@lli-hd6-lin03.llsuva.test
+Subject: TEST666
+Date: Wed, 14 Dec 2022 00:37:27 +0100 (CET)
+From: hd6@lli-hd6-lin03.llsuva.test
+Status: RO
+
+TEST Content 666
+
+Held 3 messages in /var/spool/mail/hd6
